@@ -30,7 +30,7 @@ I am not doing this alone. These are the knowledge bases forging my path:
 
 ## 📅 Captain's Log
 *A small log to hold myself accountable directly synced with my repository folders:*
-- **Basics**: Setup environment, `hello_world.cpp`, `variables_data_types.cpp`, `functions.cpp`, `type_conversion.cpp`, `debugging.cpp`, `sizeof.cpp`.
+- **Basics**: Setup environment, `hello_world.cpp`, `variables_data_types.cpp`, `functions.cpp`, `type_conversion.cpp`, `debugging.cpp`, `sizeof.cpp`, `binary.cpp`.
 - **Projects**: Created `calculator.cpp` and `fallheight.cpp` to practice the basics!
 
 ---
